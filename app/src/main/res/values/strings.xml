@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraX</string>
+    <string name="flash">flash</string>
+    <string name="capture">capture</string>
+    <string name="switch_">switch</string>
+    <string name="preview">preview</string>
+</resources>
